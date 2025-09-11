@@ -1,0 +1,15 @@
+D:\mattc\Documents\Code\LeetCode-Practice\Easy\Valid Parentheses\ValidParentheses\bin\Debug\net8.0\ValidParentheses.exe
+D:\mattc\Documents\Code\LeetCode-Practice\Easy\Valid Parentheses\ValidParentheses\bin\Debug\net8.0\ValidParentheses.deps.json
+D:\mattc\Documents\Code\LeetCode-Practice\Easy\Valid Parentheses\ValidParentheses\bin\Debug\net8.0\ValidParentheses.runtimeconfig.json
+D:\mattc\Documents\Code\LeetCode-Practice\Easy\Valid Parentheses\ValidParentheses\bin\Debug\net8.0\ValidParentheses.dll
+D:\mattc\Documents\Code\LeetCode-Practice\Easy\Valid Parentheses\ValidParentheses\bin\Debug\net8.0\ValidParentheses.pdb
+D:\mattc\Documents\Code\LeetCode-Practice\Easy\Valid Parentheses\ValidParentheses\obj\Debug\net8.0\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\mattc\Documents\Code\LeetCode-Practice\Easy\Valid Parentheses\ValidParentheses\obj\Debug\net8.0\ValidParentheses.AssemblyInfoInputs.cache
+D:\mattc\Documents\Code\LeetCode-Practice\Easy\Valid Parentheses\ValidParentheses\obj\Debug\net8.0\ValidParentheses.AssemblyInfo.cs
+D:\mattc\Documents\Code\LeetCode-Practice\Easy\Valid Parentheses\ValidParentheses\obj\Debug\net8.0\ValidParentheses.csproj.CoreCompileInputs.cache
+D:\mattc\Documents\Code\LeetCode-Practice\Easy\Valid Parentheses\ValidParentheses\obj\Debug\net8.0\ValidParentheses.sourcelink.json
+D:\mattc\Documents\Code\LeetCode-Practice\Easy\Valid Parentheses\ValidParentheses\obj\Debug\net8.0\ValidParentheses.dll
+D:\mattc\Documents\Code\LeetCode-Practice\Easy\Valid Parentheses\ValidParentheses\obj\Debug\net8.0\refint\ValidParentheses.dll
+D:\mattc\Documents\Code\LeetCode-Practice\Easy\Valid Parentheses\ValidParentheses\obj\Debug\net8.0\ValidParentheses.pdb
+D:\mattc\Documents\Code\LeetCode-Practice\Easy\Valid Parentheses\ValidParentheses\obj\Debug\net8.0\ValidParentheses.genruntimeconfig.cache
+D:\mattc\Documents\Code\LeetCode-Practice\Easy\Valid Parentheses\ValidParentheses\obj\Debug\net8.0\ref\ValidParentheses.dll
