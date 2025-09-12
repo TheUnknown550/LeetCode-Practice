@@ -6,7 +6,7 @@ Welcome to my **LeetCode Practice Repo**! This repository contains my solutions 
 
 ## 📝 Rules
 
-To make practicing more challenging and fun, I’ve implemented a **programming language randomizer**. Here are the rules:
+Try to sovle each program by using python for simplicity and understanding of innerworkings of the code. To make practicing more challenging and fun, I’ve implemented a **programming language randomizer**. Here are the rules:
 
 1. **Random Language Selection**  
    - Before solving a problem, run the `randomize_language.cpp` program.  
